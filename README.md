@@ -54,26 +54,6 @@ This project showcases an interactive Power BI dashboard designed to analyse Sta
 
 ---
 
-## 📂 Repository Structure
-
-```
-📦 starbucks-sales-powerbi-dashboard
- ├── Starbucks Daily Sales Analysis.pbix
- ├── README.md
- └── screenshots
-      └── dashboard.png
-```
-
----
-
-## 📸 Dashboard Preview
-
-> Add a screenshot of your dashboard here.
-
-![Dashboard Preview](screenshots/dashboard.png)
-
----
-
 ## 🚀 How to View
 
 1. Download this repository.
@@ -99,7 +79,3 @@ This project showcases an interactive Power BI dashboard designed to analyse Sta
 ## 👤 Author
 
 **Raja M. Umair**
-
-LinkedIn: https://linkedin.com/in/yourprofile
-
-GitHub: https://github.com/yourusername
